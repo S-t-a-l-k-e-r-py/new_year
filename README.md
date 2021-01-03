@@ -1,1 +1,5 @@
-# new_year
+# new year with snawfall
+
+
+Requirements:
+ - pygame
